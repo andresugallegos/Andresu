@@ -1,0 +1,41 @@
+ /* Color primario */
+ .bg-primario {
+     background-color: #1b0088;
+ }
+
+ .text-primario {
+     color: #1b0088;
+ }
+
+ /* Color secundario */
+ .bg-secundario {
+     background-color: #ffffff;
+ }
+
+ .text-secundario {
+     color: #ffffff;
+ }
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {    
+    background-color: #1b0088;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.centered-h1 {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #1b0088;
+}
+.centered-h3 {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #1b0088;
+}
